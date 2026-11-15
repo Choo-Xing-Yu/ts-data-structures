@@ -1,0 +1,13 @@
+{
+  "description": "TypeScript data structures — starting with a binary heap.",
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  },
+  "name": "ts-data-structures",
+  "scripts": {
+    "test": "node test/heap.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "type": "module",
+  "version": "0.1.0"
+}
